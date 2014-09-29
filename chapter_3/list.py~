@@ -1,0 +1,5 @@
+import os
+f='/home/jobi/anand-python'
+a=os.listdir(f)
+for i in a:
+	print i

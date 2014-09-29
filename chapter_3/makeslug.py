@@ -1,0 +1,5 @@
+import re
+def make_slug(a):
+	b=re.findall('\w+',a)
+	print (' ').join(b)
+make_slug('!hello world@ !@#@$%$%#@%%^^^$#^ #$')
