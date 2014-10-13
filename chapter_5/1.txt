@@ -1,0 +1,109 @@
+RESUME
+
+
+JOBI A.J                                             	Mobile   :+91- 8281532493
+ALUNGAL HOUSE		            Email ID:jobyalungal@gmail.com	
+POOKKOTTUMANNA (PO)                                                              
+MALAPPURAM-679334
+
+
+
+CAREER OBJECTIVE:
+
+To be involved in work where I can utilize skill and creatively involved with system That effectively contributes to the growth of organization.
+
+EDUCATIONAL DETAILS:
+
+
+Examination
+Passed	
+Board /
+University
+	
+Discipline /
+Specialization	
+School /
+College	
+Year of
+Passing	
+Aggregate
+        %
+
+B.Tech	
+University of
+Calicut	
+Electronics &Communication Engineering	
+Government Engineering College, Sreekrishnapuram	
+
+2014	
+7.44
+(CGPA out of 10)
+
+Higher    Secondary
+	
+Board of Higher secondary Examination	
+
+Biology Science	
+Catholicate Higher Secondary School, Pothukal	
+
+2009	
+89
+
+
+S.S.L.C.	
+Board of Public Examination, Kerala	
+
+State Syllabus	
+Marthoma Higher Secondary School, Chungathara	
+
+2007	
+
+90
+
+
+Academic Project Details:
+
+AUTOMATIC RAILWAY GATE CONTROL SYSTEM  (Mini project(B.Tech))
+
+                This project utilizes Two IR Tx/Rx. Pair is placed at either side of the gate with some distance. When train cuts first sensor light signal toggled from Green to Red; a buzzer gets activated for 2 seconds and railway gate will closed. When train cuts second sensor then a countdown timer starts and when it counts zero light signal again toggled from Red to Green ; again buzzer gets activated for 2 Seconds and gates will closed. Timing for countdown timer is set in the controller according to the speed and length of the train. Programming Language used in this project is Embedded C.
+
+VOICE AND GESTURE CONTROLLED WHEEL CHAIR WITH SMS SERVICE DURING EMERGENCY SITUATIONS  (Main project(B.Tech))
+
+        A voice and gesture based system has been developed to control a wheel chair using voice commands and moment of hand. And also having GSM module , by using GSM subsystem SMS service on emergency situation by accessing some gesture command. The system is divided into 4 main components: speech recognition module, gesture recognition system, GSM module and wheelchair control unit. In the speech recognition module, recognizing voice commands and the commands are given to microcontroller and it gives the required output. The gesture recognition uses a 3 axis accelerometer which senses the angle of the hand, i.e. according to the tilt of hand it gives voltages to microcontroller. The wheelchair control unit is developed using microcontroller. Programming Language used in this project is Embedded C.
+
+IT PROFICIENCY
+
+	Languages		:  C, VHDL, MATLAB, Python, Embedded C
+
+	Operating Systems	:  Windows, Linux
+
+	Other			:  Ms Office, Adobe Photoshop, Orcad                
+                               Circuit Wizard, Xilinx, Multisim, Latex, CooCox CoIDE
+
+
+ACHIEVEMENTS:
+
+Won first prize in GSM based vehicle design conducted on 'Thathwa' , techfest of  NIT calicut.
+
+Completed 2 month training in embedded systems from KDIY, Bangalore.
+
+Participated in INVENTO 2013 at Govt.Engineering College,  Palakkad.
+
+Attended a workshop on "Embedded Programming" organized by Electronics and Communication Engineering department in GEC Sreekrishnapuram.
+
+College magazine editor of the year 2012-2013.
+
+Active participant of tech fests, arts fests, and other college activities.
+
+INTERPERSONAL SKILLS:
+
+Confident and Determined.
+Ability to cope up with different situations.
+Language Proficiency 	 in English, Malayalam ,Hindi 
+
+Declaration
+
+I hereby declare that all the information furnished above is true to the best of my knowledge.
+
+Nilambur                                                                                      JOBI A.J
+08/08/2014
